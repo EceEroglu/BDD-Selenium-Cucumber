@@ -1,7 +1,7 @@
 Feature: Full scenario
 
   @E2E @Positive @Functional
-  Scenario: Login with valid credentials
+  Scenario: Login, Add Specific Product to Wishlist and Delete it
 
     Given I am on MainPage
     When I click on Login
