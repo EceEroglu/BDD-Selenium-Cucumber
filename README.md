@@ -1,6 +1,6 @@
 # BDD-Selenium-Cucumber
 
-## Test Automation example in Java with Cucumber and Selenium WebDriver
+## Test Automation example in Java , Cucumber and Selenium WebDriver with Page Object Model and Page Factory design pattern.
 This project is an example of automated functional test for https://n11.com
 
 The example test cases and scenarios are located in :  src/test/resources/Features/Steps.feature
